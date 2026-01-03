@@ -1,4 +1,4 @@
-# 🚨 InquiCon Presents: "Last Line of Defense" 🚨
+# 🚨 InquiCon Presents: "Last Line of Defence" 🚨
 ## The Anime CAPTCHA Creation Contest
 
 ---
